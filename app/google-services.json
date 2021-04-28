@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "510184279209",
+    "project_id": "setu-903bb",
+    "storage_bucket": "setu-903bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510184279209:android:fda75205163c0fede7adb8",
+        "android_client_info": {
+          "package_name": "com.example.loginpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510184279209-qkhknd96j0gpspoab1u5v3gn85dlf31p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvenmtrQweJ4hIIjRSjEsgPW9n0og3ecw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510184279209-qkhknd96j0gpspoab1u5v3gn85dlf31p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
